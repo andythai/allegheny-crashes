@@ -1,3 +1,4 @@
+# Car Crashes in Allegheny County
 Preventing and understanding the underlying causes of car accidents continues to be a key public safety issue. Car accidents remain commonplace throughout the United States, retaining its status as a significant cause of death. Thus, it is important that this issue be studied as to further prevent deaths and property damage.
  
 Analysts point to a myriad of reasons as to why car accidents occur. According to the Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey (2015), for the 5470 weighted samples, about 50% of the critical reasons for car crashes involve slick roads (loose debris, ice, etc), while fog/rain/snow are involved in around 4% of crashes. Note, however, that these given reasons are not the “primary causes” of the car crashes, just the “immediate reason for the critical pre-crash event and is often the last failure in the causal chain of events leading up to the crash.”
